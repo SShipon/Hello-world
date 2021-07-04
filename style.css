@@ -17,7 +17,7 @@ h1{
     color:orange;
     font-size:40px;
 }
-section{
+.flax-box{
     display:flex;
     margin-bottom:80px;
 }
