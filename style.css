@@ -1,0 +1,39 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+    margin:0px;
+    padding:0px;
+    
+}
+.top-left{
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;
+    
+    
+}
+h1{
+    font-size:50px;
+}
+.shipon{
+    color:orange;
+    font-size:40px;
+}
+section{
+    display:flex;
+}
+.demo{
+    width:50%;
+    margin-left:5%;
+}
+.demo img{
+    width:80%;
+}
+.button{
+    text-decoration:none;
+    background-image: linear-gradient(#FFA500,#008000,#00008B);
+    padding:10px 40px;
+    border-radius:5px;
+    color:white;
+    margin-top:6px;
+    font-weight:bold;
+
+}
