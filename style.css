@@ -19,6 +19,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom:80px;
 }
 .demo{
     width:50%;
@@ -28,12 +29,15 @@ section{
     width:80%;
 }
 .button{
-    text-decoration:none;
-    background-image: linear-gradient(#FFA500,#008000,#00008B);
-    padding:10px 40px;
+    background:green;
+    padding:10px;
+    text-decoration: none;
     border-radius:5px;
-    color:white;
-    margin-top:6px;
-    font-weight:bold;
-
+    color:white; 
+}
+.demo-content{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+   
 }
